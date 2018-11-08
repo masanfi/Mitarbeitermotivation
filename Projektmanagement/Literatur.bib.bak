@@ -1,0 +1,76 @@
+% Encoding: UTF-8
+
+@Book{Lippmann2013,
+  title     = {{H}andbuch {A}ngewandte {P}sychologie für {F}ührungskräfte},
+  publisher = {Springer-Verlag},
+  year      = {2013},
+  editor    = {Thomas Steiger \& Eric Lippmann},
+  number    = {I \& II},
+  isbn      = {978-3-642-34356-8},
+}
+
+@Proceedings{Rheinberg2002,
+  title        = {Motivation},
+  year         = {2002},
+  editor       = {Prof. Dr. Falko Rheinberg},
+  volume       = {4},
+  publisher    = {Kohlhammer},
+  organization = {Uni Potsdam},
+}
+
+@Book{Heckhausen2006,
+  title     = {{M}otivation und {H}andeln},
+  publisher = {Springer Verlag},
+  year      = {2006},
+  author    = {Jutta Heckhausen \& Heinz Heckhausen},
+  volume    = {3},
+  isbn      = {978-3-540-25461-4},
+}
+
+@Proceedings{Chaosreport2014,
+  title        = {{CHAOS R}eport: 21{ST ANNIVERSARY EDITION}},
+  year         = {2014},
+  editor       = {Standish},
+  publisher    = {The Standish Group International Inc.},
+  organization = {The Standish Group International Inc.},
+}
+
+@Proceedings{Forrester2006,
+  title        = {ITIL Simulators Demonstrate The Value Of Process Models},
+  year         = {2006},
+  editor       = {Forrester},
+  publisher    = {Forrester Research},
+  month        = sep,
+  organization = {Forrester Research},
+}
+
+@Book{Braumandl2009,
+  title     = {Angewandte Psychologie für Projektmanager. Ein Praxisbuch für das erfolgreiche Projektmanagement},
+  publisher = {Springer Verlag},
+  year      = {2009},
+  author    = {Wastion \& Braumandl},
+  editor    = {von Rosenstiel},
+  volume    = {14},
+}
+
+@Book{Armstrong1999,
+  title     = {A Handbook of Human Resource Management Practice},
+  publisher = {Kogan Page},
+  year      = {1999},
+  author    = {Michael Armstrong},
+}
+
+@Book{Adams1965,
+  title     = {Inequity in social exchange},
+  publisher = {Berkowitz},
+  year      = {1965},
+  author    = {J. S. Adams},
+}
+
+@Book{Herzberg1959,
+  title  = {The Motivation to Work},
+  year   = {1959},
+  author = {Frederick Irving Herzberg},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
